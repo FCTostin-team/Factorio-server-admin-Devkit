@@ -1,0 +1,19 @@
+log_path: "C:/factorio/factorio-current.log"
+websocket_host: "0.0.0.0"
+websocket_port: 8765
+
+rcon:
+  host: "127.0.0.1"
+  port: 27015
+  password: ""
+
+telegram:
+  enabled: true
+  token: ""
+  allowed_user_ids: []
+
+slack:
+  enabled: false
+  bot_token: ""
+  app_token: ""
+  allowed_user_ids: []
